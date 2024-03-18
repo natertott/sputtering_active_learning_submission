@@ -1,0 +1,7 @@
+﻿sample_name,Nb_power_watts,Nb_angle_mm,Ta_power_watts,Ta_angle_mm,Ti_power_watts,Ti_angle_mm,Sb_power_watts,Sb_angle_mm,Fe_power_watts,Fe_angle_mm,V_power_watts,V_angle_mm,Ti_measured_percent,Fe_measured_percent,Ta_measured_percent,Nb_measured_percent,Sb_measured_percent,V_measured_percent,sum_percent
+Nb_calibrant,50,6,0,6,0,6,0,6,0,6,0,6,0,0,0,100,0,0,100
+Ta_calibrant,0,6,20,6,0,6,0,6,0,6,0,6,0,0,100,0,0,0,100
+Ti_calibrant,0,6,0,6,60,6,0,6,0,6,0,6,100,0,0,0,0,0,100
+Sb_calibrant,0,6,0,6,0,6,20,6,0,6,0,6,0,0,0,0,100,0,100
+Fe_calibrant,0,6,0,6,0,6,0,6,100,6,0,6,0,100,0,0,0,0,100
+V_calibrant,0,6,0,6,0,6,0,6,0,6,100,6,0,0,0,0,0,100,100
